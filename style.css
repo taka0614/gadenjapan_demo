@@ -10,7 +10,7 @@ p {
 nav {
     width: 100%;
     height: 100vh;
-    background-image: url(A00004622.jpg);
+    background-image: url(4797176_l.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -240,7 +240,7 @@ video {
 
 
 .consept_back {
-    background-image: url(main-slide10.jpg);
+    background-image: url(s1263-1.jpg);
     width: 320px;
     height: 250px;
     background-size: cover;
@@ -252,7 +252,7 @@ video {
 }
 
 .consept_back2 {
-    background-image: url(main-slide05.jpg);
+    background-image: url(4be78fbfe27843ff50f5f65db5279ff8.jpg);
     width: 320px;
     height: 250px;
     background-size: cover;
@@ -350,3 +350,32 @@ ul.horizontal_scroll h5.scroll_title {
 font-size: 18px;
 }
 
+
+@media (min-width: 769px) {
+
+    main {
+        background-color: #ffe5d0;
+    }
+
+    .top_text {
+        background-color: #ffe5d0;
+        position: absolute;
+        top: 100vh;
+    }
+
+    .top_title {
+        color: #fff;
+        font-size: 80px;
+        margin-top: -4%;
+        margin-left: 10%;
+    }
+
+    .movie {
+        text-align: center;
+    }
+
+    video {
+        width: 800px;
+    }
+
+}
