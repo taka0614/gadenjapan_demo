@@ -357,6 +357,10 @@ font-size: 18px;
         background-color: #ffe5d0;
     }
 
+    nav img {
+        width: 800px;
+    }
+
     .top_text {
         background-color: #ffe5d0;
         position: absolute;
@@ -366,16 +370,70 @@ font-size: 18px;
     .top_title {
         color: #fff;
         font-size: 80px;
-        margin-top: -4%;
-        margin-left: 10%;
+        margin-top: 4%;
     }
 
-    .movie {
-        text-align: center;
+    .top_title span {
+        font-size: 36px;
+        color: #5a5a5a;
+    }
+
+    .top_text p {
+        font-size: 24px;
+        padding: 10%;
+        color: #5f5f5f;
     }
 
     video {
+        width: 100%;
+        margin-top: -8%;
+    }
+
+    .contents {
+        top: 232%;
+    }
+
+    .consept_title {
+        font-size: 60px;
+        margin-top: 5%;
+    }
+
+    .consept_subtitle {
+        font-size: 40px;
+    }
+
+    .consept_back {
         width: 800px;
+        height: 600px;
+    }
+
+    .consept_back2 {
+        width: 800px;
+        height: 600px;
+    }
+
+    .consept_text {
+        font-size: 24px;
+        padding: 50% 10% 0% 10%;
+    }
+
+    .content_title {
+        font-size: 60px;
+    }
+
+    .content_subtitle {
+        font-size: 40px;
+        margin-top: 5%;
+    }
+
+    .content_text {
+        font-size: 24px;
+        padding: 5% 10% 0% 10%;
+    }
+
+    .horizontal_scroll {
+        overflow-x: unset;
+        margin-top: 5%;
     }
 
 }
