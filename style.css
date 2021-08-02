@@ -125,7 +125,7 @@ nav img {
 }
 
 .top_text p {
-    padding: 35% 10% 28%;
+    padding: 35% 10% 10%;
     margin-left: -5%;
     color: #5f5f5f;
 }
@@ -133,7 +133,7 @@ nav img {
 
 video {
     position: absolute;
-    top: 160%;
+    top: 156%;
     left: 0;
     width: 100%;
     height: auto;
@@ -141,7 +141,7 @@ video {
 
 .contents {
     position: absolute;
-    top: 190%;
+    top: 187%;
     background-color: #ffe5d0;
     width: 100%;
 }
